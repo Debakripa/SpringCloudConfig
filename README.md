@@ -1,0 +1,1 @@
+Showcases spring cloud configuration
